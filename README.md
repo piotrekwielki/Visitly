@@ -1,6 +1,6 @@
-# Marketplace Booking Platform
+# Visitly
 
-Booksy-inspired marketplace and business operations foundation built with Next.js, Supabase, and Vercel.
+Visitly is a marketplace and business operations foundation built with Next.js, Supabase, and Vercel.
 
 ## What is included
 

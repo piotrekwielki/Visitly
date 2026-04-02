@@ -15,7 +15,7 @@ export function SiteHeader() {
             <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground">
               Marketplace OS
             </p>
-            <p className="text-lg font-extrabold tracking-tight">Schedulr</p>
+            <p className="text-lg font-extrabold tracking-tight">Visitly</p>
           </div>
         </Link>
 

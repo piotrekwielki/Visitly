@@ -16,7 +16,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Schedulr",
+  title: "Visitly",
   description: "Marketplace and business operating system for appointment-based services."
 };
 

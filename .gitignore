@@ -6,3 +6,7 @@ node_modules
 .env.production
 coverage
 *.log
+agents/
+docs/
+notes/
+prompts/
