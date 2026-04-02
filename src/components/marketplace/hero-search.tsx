@@ -21,7 +21,7 @@ export function HeroSearch() {
               Book services fast, then run the whole business from one place.
             </h1>
             <p className="max-w-2xl text-base leading-7 text-muted-foreground sm:text-lg">
-              Visitly brings together discovery, booking, staff scheduling,
+              VisitMe brings together discovery, booking, staff scheduling,
               customer CRM, and payment-ready appointment flows.
             </p>
           </div>

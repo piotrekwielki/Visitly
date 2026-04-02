@@ -1,6 +1,6 @@
-# Visitly
+# VisitMe
 
-Visitly is a marketplace and business operations foundation built with Next.js, Supabase, and Vercel.
+VisitMe is a marketplace and business operations foundation built with Next.js, Supabase, and Vercel.
 
 ## What is included
 
